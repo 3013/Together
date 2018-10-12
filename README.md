@@ -1,1 +1,3 @@
 # Together
+We at ‘together’ are trying to build an drought predictor to tackle one of the biggest problem that we are going to face in the coming decade. Using Azure ML tools we will find the ground water levels, from the IMD we can get the rain data, we also know the water from the rivers and canals. We can therefore predict the amount of water govt. will need for storage and as buffer. 
+This algorithm will help protect agriculture, avoid drought, and save millions of people and animals. These will be paradigm altering advances for future and could help us crack this water crisis and lead us to a better future
